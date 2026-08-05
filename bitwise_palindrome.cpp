@@ -10,7 +10,6 @@ int main(void) {
 	cout << "value = ";
 	cin >> val;
 
-	
 	unsigned short int newval = 0;
 	for(int i=0;i<16;i++)
 	{
