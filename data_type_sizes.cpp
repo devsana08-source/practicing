@@ -6,6 +6,9 @@ int main()
 {
     cout << "Size of data types in this environment:" << endl;
 
+    //sizeof  topic 
+    //sizeof(type)  gives the sizes of type 
+
     cout << "char        : " << sizeof(char) << " byte(s)" << endl;
     cout << "short int   : " << sizeof(short int) << " byte(s)" << endl;
     cout << "int         : " << sizeof(int) << " byte(s)" << endl;
